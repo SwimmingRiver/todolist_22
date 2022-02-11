@@ -1,0 +1,23 @@
+.App{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+  
+}
+.ToDoList{
+
+}
+select{
+    width: 500px;
+}
+hr{
+    margin: 0;
+}
+li{
+    list-style-type: none;
+    border: 1px solid black;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
